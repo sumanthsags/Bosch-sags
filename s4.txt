@@ -1,2 +1,8 @@
 simulating for demo - 4 
+Added change in second branch for day 2
+one more change from vscode in day-b2
+new change added for conflict
+one more change from vscode in day-b2New change at Tue Oct 14 11:14:37 IST 2025
 Change for PR to have conflict with base - Tue Oct 14 12:04:16 IST 2025
+Fixed merge conflict
+new line on - Tue Oct 14 12:52:52 IST 2025
